@@ -3,7 +3,7 @@
     {
       "type": "logo",
       "id": 1,
-      "public": "./public/img/dastresi-logo.png",
+      "src": "./public/img/dastresi-logo.png",
       "alt": "Dastresi Logo"
     },
     {
@@ -171,25 +171,25 @@
   "slider1Images": [
     {
       "id": 1,
-      "public": "./public/img/banner-1.jpg",
+      "src": "./public/img/banner-1.jpg",
       "alt": "Banner Acefast",
       "link": "google.com"
     },
     {
       "id": 2,
-      "public": "./public/img/banner-2.jpg",
+      "src": "./public/img/banner-2.jpg",
       "alt": "Banner Dastresi 1",
       "link": "google.com"
     },
     {
       "id": 3,
-      "public": "./public/img/banner-3.png",
+      "src": "./public/img/banner-3.png",
       "alt": "Banner Dastresi 2",
       "link": "google.com"
     },
     {
       "id": 4,
-      "public": "./public/img/banner-4.jpg",
+      "src": "./public/img/banner-4.jpg",
       "alt": "Banner Dastresi 4",
       "link": "google.com"
     }
@@ -286,31 +286,31 @@
   ],
   "category":[
   {
-    "public": "./public/img/adaptor.png",
+    "src": "./public/img/adaptor.png",
     "alt": "آداپتور"
   },
   {
-    "public": "./public/img/battery.png",
+    "src": "./public/img/battery.png",
     "alt": "باتری"
   },
   {
-    "public": "./public/img/cable.png",
+    "src": "./public/img/cable.png",
     "alt": "کابل"
   },
   {
-    "public": "./public/img/gaming.png",
+    "src": "./public/img/gaming.png",
     "alt": "گیمینگ"
   },
   {
-    "public": "./public/img/handsfree.png",
+    "src": "./public/img/handsfree.png",
     "alt": "هندزفری"
   },
   {
-    "public": "./public/img/Holder Negahdarande.png",
+    "src": "./public/img/Holder Negahdarande.png",
     "alt": "نگهدارنده"
   },
   {
-    "public": "./public/img/mobadel o rabet.png",
+    "src": "./public/img/mobadel o rabet.png",
     "alt": "مبدل و رابط"
   }
   ],
